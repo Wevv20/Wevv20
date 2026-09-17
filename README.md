@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ ¡Hola, soy 👋 [Tu Nombre]! 💻
+# 🛡️ ¡Hola, soy 👋 Wilmar Valbuena! 💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=120&section=header&text=Ingeniero%20de%20Sistemas%20%26%20Ciberseguridad&fontSize=22&fontColor=00ffcc&animation=fadeIn" width="100%"/>
 
@@ -12,10 +12,10 @@
 
 ### ⚡ Sobre Mí
 
-* 🔭 Actualmente enfocado en **Seguridad Ofensiva, Análisis de Vulnerabilidades y Redes**.
-* 🛡️ Apasionado por diseñar infraestructuras de sistemas robustas, eficientes y seguras desde el código base (**Secure by Design**).
-* ⚡ Intereses principales: Ciberseguridad, Ethical Hacking, Automatización y Sistemas Distribuidos.
-* 📬 ¿Cómo contactarme?: [tu-correo@example.com](mailto:tu-correo@example.com)
+* 🔭 Actualmente cursando mi carrera en **Ingeniería de Sistemas y Computación**
+* 🛡️ Apasionado por la Ciberseguridad, el desarrollo en Java/Python y la nube, estudiando y practicando esto de forma constante.
+* ⚡ Intereses principales: Ciberseguridad, Ethical Hacking, Automatización, Sistemas Distribuidos y Cloud.
+* 📬 ¿Cómo contactarme?: [wilmarestebanvalbuenavargas@gmail.com](mailto:wilmarestebanvalbuenavargas@gmail.com)
 
 ---
 
@@ -23,17 +23,20 @@
 
 <div align="center">
 
-#### **Seguridad & Pentesting**
+#### **Lenguajes & Backend**
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+
+#### **Ciberseguridad & Redes**
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
-[![Metasploit](https://img.shields.io/badge/Metasploit-1D1D1D?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
-[![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
-
-#### **Desarrollo & Sistemas**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+
+#### **Bases de Datos & Datos**
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
 </div>
 
@@ -51,11 +54,15 @@
 <details>
 <summary><b>📂 Proyectos Destacados (Haz clic para ver)</b></summary>
 
-* **RedSec (IDS):** Sistema de detección de intrusos desarrollado en Python para análisis de tráfico de red en tiempo real.
-* **SecureCloud Infra:** Despliegue automatizado de infraestructura cloud con políticas estrictas de seguridad (Hardening de servidores).
-* **Pentest Toolkit:** Scripts personalizados en Bash y Python para automatizar fases de reconocimiento en auditorías de seguridad.
+* **Desarrollo en Java y Python:** Creación de aplicaciones orientadas a objetos, interfaces de escritorio y soluciones backend.
+* **Automatización y Scripts de Seguridad:** Herramientas y scripts enfocados en análisis y gestión de entornos en sistemas Linux.
+* **Gestión de Datos:** Diseño de bases de datos relacionales con MySQL y SQLite para optimizar flujos de información.
 
 </details>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:203a43&height=30&section=footer" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:203a43&height=30&section=footer" width="100%"/>
