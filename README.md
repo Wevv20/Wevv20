@@ -2,9 +2,9 @@
 
 # 🛡️ ¡Hola, soy 👋 Wilmar Valbuena! 💻
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=120&section=header&text=Ingeniero%20de%20Sistemas%20%26%20Ciberseguridad&fontSize=22&fontColor=00ffcc&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:203a43&height=120&section=header&text=Ingeniería%20de%20Sistemas%20%26%20Ciberseguridad&fontSize=22&fontColor=00ffcc&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Seguridad+Ofensiva+%2F%2F+Pentesting;Arquitectura+de+Sistemas+y+Cloud;Desarrollo+Seguro+%2F%2F+DevSecOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=Desarrollo+de+Software+%2F%2F+Java+%26+Python;Ciberseguridad+%2F%2F+Ethical+Hacking;Cloud+%2F%2F+Automatizaci%C3%B3n+y+Sistemas" alt="Typing SVG" />
 
 </div>
 
